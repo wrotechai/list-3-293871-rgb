@@ -1,5 +1,3 @@
-; Task 3 — move all four balls from room1 to room2.
-; This model is PROVIDED by the assignment.
 
 (define (problem move-balls)
   (:domain ball-moving-robot)

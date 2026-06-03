@@ -1,6 +1,3 @@
-; Task 3 — Ball-moving robot (gripper problem).
-; This model is PROVIDED by the assignment. Run it, generate a plan, analyse it.
-; (Cleaned version of the listing in the assignment PDF.)
 
 (define (domain ball-moving-robot)
   (:requirements :strips :typing)
